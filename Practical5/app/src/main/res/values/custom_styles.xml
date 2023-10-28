@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/custom_styles.xml -->
+<resources>
+    <style name="CustomTextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+        <!-- Other style attributes -->
+    </style>
+</resources>
